@@ -1,0 +1,6 @@
+Reykjavik sudur;45725
+Reykjavik nordur;45638
+Sudvestur;73729
+Sudur;38424
+Nordaustur;29887
+Nordvestur;21548

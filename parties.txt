@@ -1,0 +1,9 @@
+D;Sjalfstaedisflokkurinn
+B;Framsoknarflokkurinn
+V;Vinstri graen
+S;Samfylkingin
+F;Flokkur folksins
+P;Piratar
+C;Vidreisn
+M;Midflokkurinn
+J;Sosialistaflokkur Islands
